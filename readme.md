@@ -81,7 +81,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## Author
 
-[Your Name]
+Mohanad Mahmoud , Mohammed Elghobashy , Hamza Ahmed Mohammed
 
 ---
 
